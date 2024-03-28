@@ -38,7 +38,7 @@ TBD
    structure for mkdocs that can be recommended for use across all projects
    under the OSL Incubator Program.
 3. **Pilot Project Implementation**: Apply the developed mkdocs guidelines and
-   boilerplate to a selection of incubator projects, serving as pilot
+   boilerplate to a selection of incubator project(s), serving as pilot
    implementations.
 4. **Update SciCookie**: SciCookie is a project generator, and updating the
    predefined mkdocs configuration into SciCookie template will help new
@@ -124,7 +124,9 @@ budget, at $30 USD/hr rate.
 | ------------------ | -------- | ----------- | --------------- |
 | Technical writer   | 1        | 7200.00 USD | 7200.00 USD     |
 | Volunteer stipends | 2        | 500.00 USD  | 1000.00 USD     |
-| **TOTAL**          | -        | -           | **8200.00 USD** |
+| **Sub-total**      | -        | -           | **8200.00 USD** |
+| OC Overhead        | -        | 10%         | 820.00 USD      |
+| **TOTAL**          | -        | -           | **9020.00 USD** |
 
 ## How to apply
 
