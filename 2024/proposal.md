@@ -1,129 +1,107 @@
 # Google Season of Docs 2024 Proposal for Open Science Labs
 
-Open Science Labs has been working promoting open-source development and open
-science principles. Through our Incubator Program, we support the development of
-innovative open source projects that contribute the community in different
-areas. Effective documentation is crucial for the success and adoption of these
-projects. By participating in Google Season of Docs, we aim to elevate our
-documentation standards, making our projects more accessible and easier to
-contribute to. As a final deliverable, this knowledge and best-practices
-standards will be compiled into a project template project, SciCookie, so any
-new project created with that will automatically use this new structure.
+Open Science Labs (OSL) actively supports open-source development and the
+principles of open science through our Incubator Program. This program aids in
+the development of open-source projects that benefit the community across
+various domains. We recognize that effective documentation is essential for the
+success and wider adoption of these projects. Participating in the Google Season
+of Docs will enable us to enhance our documentation quality, making our projects
+more user-friendly and easier to contribute to. Our ultimate goal is to
+incorporate this enhanced documentation approach into a project template, named
+SciCookie, ensuring that all new projects initiated with it will embody these
+improved documentation standards.
 
 ## About Open Science Labs
 
-**Open Science Labs (OSL)** is at the forefront of advancing scientific research
-through collaboration, innovation, and education. With a mission centered on
-creating a more inclusive, transparent, and accessible scientific community, OSL
-aims to empower researchers, educators, and students to contribute meaningfully
-to the progress of science. Through initiatives such as project incubation,
-partnership, and Internship Program, OSL provides a platform for collaboration,
-innovation, and learning within the scientific community. Guided by the
-principles of collaboration, innovation, and openness, OSL is committed to
-providing the necessary tools, resources, and support to advance science and
-technology in an open and accessible manner.
+OSL is dedicated to advancing scientific research through collaboration,
+innovation, and education. Our mission is to foster a more inclusive,
+transparent, and accessible scientific community, empowering researchers,
+educators, and students to contribute significantly to scientific advancements.
+OSL encourages collaboration, innovation, and learning within the scientific
+community through project incubation, partnerships, and an Internship Program,
+all while upholding the principles of openness and accessibility.
 
-## About the project
+## About the Project
 
-### Project's problem
+### Project's Problem
 
-Keep project's documentation in good shape is a hard task, but it is also hard
-when we are starting a new project and create the initial structure for the
-documentation for the project.
+Maintaining high-quality documentation is challenging, especially when
+initiating a new project and establishing its foundational documentation
+structure.
 
-SciCookie is a project template tool (uses cookieninja, a cookiecutter fork, as
-a backend) that helps to create a good initial structure for new projects.
-SciCookie also uses recommendations from pyOpenSci to improve the project
-template structure and options for libraries in order to implement best
-practices for new projects.
-
-Currently, SciCookie has just a few initial structure for documentation, but it
-would be also valuable to add a guideline for documentation writers, that will
-guide contributors to improve the documentation quality and efficiency.
+SciCookie, leveraging cookieninja (a cookiecutter fork) as its backend,
+facilitates the creation of a robust initial structure for new projects. It
+incorporates recommendations from pyOpenSci to optimize the project template,
+encouraging adherence to best practices from the outset. However, SciCookie's
+current documentation structure is basic, and there's a clear need for
+guidelines that can assist documentation writers in enhancing documentation
+quality and effectiveness.
 
 ### Project's Scope
 
-The project aims to create a guideline, and improve the initial structure
-offered by SciCookie template. Additionally, it aims to improve at least one
-project in the OSL Incubator as a pilot for prove the recommendations and maybe
-improve back some items to the initial guide.
+This project aims to develop a comprehensive guideline for documentation and
+refine the initial structure provided by the SciCookie template. It will also
+involve applying these guidelines to at least one OSL Incubator project as a
+pilot to validate the recommendations.
 
 #### Deliverables
 
-1. **Documentation Guideline**: Create a guidelines for writing effective and
+1. **Documentation Guideline**: Establish guidelines for creating effective and
    comprehensive documentation for Python projects.
-2. **mkdocs Guideline**: Create a guideline for recommendations for creating
-   mkdocs with material (https://squidfunk.github.io/mkdocs-material/). This
-   guideline should have recommendations for configuring menus, sub-menus, table
-   of contents, and blog posts.
-3. **Pilot Project Implementation**: Apply the documentation and mkdocs
-   guidelines to at least one selected incubator project, serving as pilot
-   implementation.
-4. **Update SciCookie**: Apply the documentation and mkdocs guidelines to the
-   **SciCookie** template.
+2. **mkdocs Guideline**: Formulate specific recommendations for using mkdocs
+   with material, including configuring menus, sub-menus, table of contents, and
+   blog posts.
+3. **Pilot Project Implementation**: Apply both sets of guidelines to a selected
+   incubator project as a practical implementation test.
+4. **Update SciCookie**: Integrate these guidelines into the SciCookie template.
 
+## Measuring Success
 
-## How would we measure success?
-
-We plan to publish a survey on google-forms and ask a few questions about the work
-that will be in progress. The feedback we will be used to improve the results.
-
-At the end, it would be expected to have at least 75% of good feedback from the
-survey.
-
-The questions will be focused on the quality of content, if there are any
-missing information, and the aesthetical and functional, accessibility aspect of
-the documentation page.
+Success will be evaluated through a Google Forms survey, seeking feedback on the
+ongoing work. We aim for at least 75% positive feedback, focusing on content
+quality, information completeness, and documentation aesthetics and
+functionality.
 
 ## Requirements
 
-### Requirements for technical writer
+### Technical Writer
 
-Required:
+**Required**:
 
-- Proficiency in written English
-- Experience with documentation organization or information architecture
-- Communicating with community members
-- Comfortable with Git, Github and pull request-driven workflows
-
-Nice to have:
-
-- Knowledge about Python, and mkdocs
-
-### For Web Dev (?)
-
-TBD
+- Proficient in English
+- Experienced in documentation organization
+- Able to communicate with community members
+- Comfortable with Git, GitHub, and pull request workflows
+- Familiarity with Python and mkdocs
 
 ## Volunteers
 
-@xmnlab - Main point of contact. Ivan has been contributing to the projects on
-the OSL Incubator Program, and have helped writing documentation and
-configuration the documentation engine for all the projects in incubation.
+@xmnlab - Ivan, the main point of contact, has contributed extensively to
+documentation and setup for incubator projects.
+
+An additional volunteer will be recruited to assist in guiding the project and
+verifying the outcomes.
 
 ## Timeline
 
-We expect that the technical writer will spend 6 months on the project, between
-May and November 2024, working 10 hours per week on average. During these hours,
-the technical writer will also:
+The project spans 6 months, from May to November 2024, with the technical writer
+dedicating an average of 10 hours per week. Activities include participating in
+community meetings and promoting the project.
 
-- Attend OSL community meetings, specific for documentation
-- Publish and spread awareness of the project
+| **Dates** | **Action Items**                                               |
+| --------- | -------------------------------------------------------------- |
+| May       | Orientation and project initiation.                            |
+| June      | Draft and review new documentation structure proposals.        |
+| July      | Finalize navigation and address potential issues.              |
+| August    | Enhance core concepts documentation in collaboration with OSL. |
+| September | Integrate feedback and celebrate progress.                     |
+| October   | Refine documentation with a focus on practical use cases.      |
+| November  | Conclude the project and celebrate achievements.               |
 
-| **Dates** | **Action Items**                                                                                                                                                                                                                                                                                                                                                               |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| May       | Technical writer is hired. Orientation phase.                                                                                                                                                                                                                                                                                                                                  |
-| June      | Review navigation of docs of other Open Source projects. Draft a new proposal for the docs structure ([statement of interest](https://developers.google.com/season-of-docs/docs/tech-writer-statement)). Create a PR, ask the team and community for feedback. First monthly evaluation period                                                                                 |
-| July      | Finish navigation, test redirects and see if there are broken links. Talk to the OSL team to figure out contention points and common questions of new users. Review flow of "docs". Second monthly evaluation period                                                                                                                                                           |
-| August    | Analyse the project "docs". Create a plan for where core concepts should go into more detail. Work with OSL maintainers and contributors to enhance the core concepts documentation.                                                                                                                                                                                           |
-| September | Integrate work and ask for feedback from the community. Celebrate success so far - get a nice blog post on the website! Third monthly evaluation period                                                                                                                                                                                                                        |
-| October   | Review overlap between Install docs, and use-cases. Compared with other projects. (Hopefully with what's been done in June, it will be easier to distinguish Day 1 from Day 2 tasks.) If there is a lot more work to be done to e.g. break up pieces into "tasks", maybe focus on low-hanging fruit instead. Ask for feedback again, publish. Fourth monthly evaluation period |
-| November  | Tidy up loose ends. Celebrate with another blog post on the website!                                                                                                                                                                                                                                                                                                           |
+## Project Budget
 
-## Project budget
-
-We are aiming for a commitment of an average of 15 hours per week over the six
-month period, although the scope can be adjusted as necessary to fit into the
-budget, at $30 USD/hr rate.
+The budget is based on a 15-hour weekly commitment over 6 months, with
+adjustments as necessary, at a rate of $30 USD/hr.
 
 | Budget Item        | Quantity | Amount      | Running Total   |
 | ------------------ | -------- | ----------- | --------------- |
@@ -133,33 +111,34 @@ budget, at $30 USD/hr rate.
 | OC Overhead        | -        | 10%         | 820.00 USD      |
 | **TOTAL**          | -        | -           | **9020.00 USD** |
 
-## How to apply
+\*\*OC: Open Collective
 
-If you are interested in participating in Google Season of Docs as a technical
-writer, please do the following:
+## How to Apply
+
+Interested technical writers can apply for participation in the Google Season of
+Docs with Open Science Labs by following these steps:
 
 - Join the Open Science Labs channel on
-  [discord](https://opensciencelabs.org/discord)
-- Familiarize yourself with the
-  [documentation page](https://osl-incubator.github.io/scicookie/). Particularly
-  the sections
+  [Discord](https://opensciencelabs.org/discord).
+- Explore the
+  [SciCookie documentation page](https://osl-incubator.github.io/scicookie/),
+  focusing on the sections about
   [Contributing](https://osl-incubator.github.io/scicookie/install/),
-  [User Guide](https://osl-incubator.github.io/scicookie/guide/),
-  [Installation](https://osl-incubator.github.io/scicookie/install/). Getting a
-  general sense of the documentation structure of the organization will be of
-  help as well.
-- You will need some familiarity with python and documentation technologies such
-  as [mkdocs](https://www.mkdocs.org/),
-  [quarto](https://quarto.org/docs/extensions/) so you can more easily
-  understand the problems and background of users.
-- Talk to us in **discord**, introduce yourself - we are happy to tell you more.
+  [User Guide](https://osl-incubator.github.io/scicookie/guide/), and
+  [Installation](https://osl-incubator.github.io/scicookie/install/). Getting
+  acquainted with the overall documentation structure will be beneficial.
+- Acquire some familiarity with Python and documentation technologies like
+  [mkdocs](https://www.mkdocs.org/) to better understand the user base and their
+  challenges.
+- Engage with us on **Discord** by introducing yourself. We are eager to share
+  more details and answer any questions.
 
-## Contact info
+## Contact Information
 
-Technical writers interested in working on this project should send an email to
-team@opensciencelabs.org. Please include links to your technical writing work or
-portfolio/résumé/CV. Note: The application cut-off for this proposal is 10 May
-2024, 23:59 UTC. We will announce the chosen applicant by 18 May.
+To express interest in this project, please send an email to
+team@opensciencelabs.org, including links to your technical writing samples,
+portfolio, or CV. Ensure your application is submitted by 10 May 2024,
+23:59 UTC. The selected applicant will be announced by 18 May.
 
-If you have any questions, feel free to ask in our Discord server:
-https://opensciencelabs.org/discord
+For further inquiries, our Discord server is an open channel for questions:
+[https://opensciencelabs.org/discord](https://opensciencelabs.org/discord).
