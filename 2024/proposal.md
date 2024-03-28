@@ -27,40 +27,45 @@ technology in an open and accessible manner.
 
 ### Project's problem
 
-TBD
+Keep project's documentation in good shape is a hard task, but it is also hard
+when we are starting a new project and create the initial structure for the
+documentation for the project.
+
+SciCookie is a project template tool (uses cookieninja, a cookiecutter fork, as
+a backend) that helps to create a good initial structure for new projects.
+SciCookie also uses recommendations from pyOpenSci to improve the project
+template structure and options for libraries in order to implement best
+practices for new projects.
+
+Currently, SciCookie has just a few initial structure for documentation, but it
+would be also valuable to add a guideline for documentation writers, that will
+guide contributors to improve the documentation quality and efficiency.
 
 ### Project's Scope
 
-1. **Develop Documentation Guidelines**: Create a set of guidelines for writing
-   effective and comprehensive documentation for Python projects, with a special
-   emphasis on the use of mkdocs.
-2. **Establish a Mkdocs Initial Structure**: Define a standard configuration and
-   structure for mkdocs that can be recommended for use across all projects
-   under the OSL Incubator Program.
-3. **Pilot Project Implementation**: Apply the developed mkdocs guidelines and
-   boilerplate to a selection of incubator project(s), serving as pilot
-   implementations.
-4. **Update SciCookie**: SciCookie is a project generator, and updating the
-   predefined mkdocs configuration into SciCookie template will help new
-   projects created by SciCookie to have a better shape and use best-practice
-   about documentation and mkdocs. Additionally, the guideline for documentation
-   should be added to the SciCookie Template.
+The project aims to create a guideline, and improve the initial structure
+offered by SciCookie template. Additionally, it aims to improve at least one
+project in the OSL Incubator as a pilot for prove the recommendations and maybe
+improve back some items to the initial guide.
 
-### Expected Outcomes
+#### Deliverables
 
-- A comprehensive guide for writing documentation for Python projects, optimized
-  for mkdocs.
-- A mkdocs boilerplate that encapsulates best practices in documentation
-  structure and configuration.
-- Enhanced documentation for selected OSL Incubator Program projects,
-  demonstrating the practical application of our guidelines.
-- Increased engagement from the open-source community, facilitated by clearer
-  and more accessible project documentation.
-- Update the SciCookie template with the standards and developed guidelines.
+1. **Documentation Guideline**: Create a guidelines for writing effective and
+   comprehensive documentation for Python projects.
+2. **mkdocs Guideline**: Create a guideline for recommendations for creating
+   mkdocs with material (https://squidfunk.github.io/mkdocs-material/). This
+   guideline should have recommendations for configuring menus, sub-menus, table
+   of contents, and blog posts.
+3. **Pilot Project Implementation**: Apply the documentation and mkdocs
+   guidelines to at least one selected incubator project, serving as pilot
+   implementation.
+4. **Update SciCookie**: Apply the documentation and mkdocs guidelines to the
+   **SciCookie** template.
+
 
 ## How would we measure success?
 
-We plan to publish a survey on google-forms and ask a few questions about work
+We plan to publish a survey on google-forms and ask a few questions about the work
 that will be in progress. The feedback we will be used to improve the results.
 
 At the end, it would be expected to have at least 75% of good feedback from the
