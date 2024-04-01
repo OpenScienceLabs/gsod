@@ -79,8 +79,7 @@ functionality.
 @xmnlab - Ivan, the main point of contact, has contributed extensively to
 documentation and setup for incubator projects.
 
-An additional volunteer will be recruited to assist in guiding the project and
-verifying the outcomes.
+@bluexblooded - Victoria is a professional writer experienced in covering a wide variety of topics.
 
 ## Timeline
 
@@ -88,15 +87,15 @@ The project spans 6 months, from May to November 2024, with the technical writer
 dedicating an average of 10 hours per week. Activities include participating in
 community meetings and promoting the project.
 
-| **Dates** | **Action Items**                                               |
-| --------- | -------------------------------------------------------------- |
-| May       | Orientation and project initiation.                            |
-| June      | Draft and review new documentation structure proposals.        |
-| July      | Finalize navigation and address potential issues.              |
-| August    | Enhance core concepts documentation in collaboration with OSL. |
-| September | Integrate feedback and celebrate progress.                     |
-| October   | Refine documentation with a focus on practical use cases.      |
-| November  | Conclude the project and celebrate achievements.               |
+| Month         | Task and Milestones                                                                                           |
+| ------------- | ------------------------------------------------------------------------------------------------------------- |
+| **May**       | Orientation and project initiation: Introduce technical writer to OSL community and outline project scope.    |
+| **June**      | Draft documentation guidelines and mkdocs configuration recommendations. Start pilot project implementation.  |
+| **July**      | Apply guidelines and configurations to pilot project. Gather initial feedback from OSL community.             |
+| **August**    | Refine documentation based on feedback. Begin integration of guidelines into SciCookie template.              |
+| **September** | Final review and adjustments to documentation and mkdocs configurations. Continue integration into SciCookie. |
+| **October**   | Finalize and publish all changes to pilot project documentation. Finalize integration into SciCookie.         |
+| **November**  | Evaluate project success through community feedback. Document lessons learned and celebrate achievements.     |
 
 ## Project Budget
 
@@ -137,8 +136,8 @@ Docs with Open Science Labs by following these steps:
 
 To express interest in this project, please send an email to
 team@opensciencelabs.org, including links to your technical writing samples,
-portfolio, or CV. Ensure your application is submitted by 10 May 2024,
-23:59 UTC. The selected applicant will be announced by 18 May.
+portfolio, or CV. Ensure your application is submitted by 10 May 2024, 23:59
+UTC. The selected applicant will be announced by 18 May.
 
 For further inquiries, our Discord server is an open channel for questions:
 [https://opensciencelabs.org/discord](https://opensciencelabs.org/discord).
