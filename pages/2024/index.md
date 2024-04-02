@@ -92,12 +92,12 @@ projects.
 | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **April**     | Start recruiting process for hiring technical writer.                                                                                               |
 | **May**       | Contract a technical writer; Orientation and project initiation: Introduce the technical writer to the OSL community and outline the project scope. |
-| **June**      | Draft documentation guidelines and mkdocs configuration recommendations. Start pilot project implementation.                                        |
-| **July**      | Apply guidelines and configurations to pilot project. Gather initial feedback from OSL community.                                                   |
-| **August**    | Refine documentation based on feedback. Begin integration of guidelines into SciCookie template.                                                    |
-| **September** | Final review and adjustments to documentation and mkdocs configurations. Continue integration into SciCookie.                                       |
-| **October**   | Finalize and publish all changes to pilot project documentation. Finalize integration into SciCookie.                                               |
-| **November**  | Evaluate project success through community feedback. Document lessons learned and celebrate achievements.                                           |
+| **June**      | Draft documentation guidelines and mkdocs configuration recommendations. Start a pilot project implementation.                                      |
+| **July**      | Apply guidelines and configurations to a pilot project. Gather an initial feedback from OSL community.                                              |
+| **August**    | Refine the documentation based on feedback. Begin the integration of guidelines into the SciCookie template.                                        |
+| **September** | Applyt final review and adjustments to the documentation and mkdocs configurations. Continue the integration into the SciCookie project.            |
+| **October**   | Finalize and publish all changes to the pilot project documentation. Finalize the integration into the SciCookie project.                           |
+| **November**  | Evaluate the project success through community feedback. Document lessons learned and celebrate achievements.                                       |
 
 ## Project Budget
 
