@@ -1,4 +1,6 @@
-# Google Season of Docs 2024 Proposal for Open Science Labs
+_Google Season of Docs 2024 Proposals_
+
+# Advancing Documentation Quality with SciCookie - Open Science Labs
 
 Open Science Labs (OSL) actively supports open-source development, and the
 principles of open science. Our Incubator Program aids in the development of
@@ -90,7 +92,7 @@ projects.
 
 | Month         | Task and Milestones                                                                                                                                 |
 | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **April**     | Start recruiting process for hiring a technical writer.                                                                                               |
+| **April**     | Start recruiting process for hiring a technical writer.                                                                                             |
 | **May**       | Contract a technical writer; Orientation and project initiation: Introduce the technical writer to the OSL community and outline the project scope. |
 | **June**      | Draft documentation guidelines and mkdocs configuration recommendations. Start a pilot project implementation.                                      |
 | **July**      | Apply guidelines and configurations to a pilot project. Gather an initial feedback from OSL community.                                              |
