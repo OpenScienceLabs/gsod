@@ -90,7 +90,7 @@ projects.
 
 | Month         | Task and Milestones                                                                                                                                 |
 | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **April**     | Start recruiting process for hiring technical writer.                                                                                               |
+| **April**     | Start recruiting process for hiring a technical writer.                                                                                               |
 | **May**       | Contract a technical writer; Orientation and project initiation: Introduce the technical writer to the OSL community and outline the project scope. |
 | **June**      | Draft documentation guidelines and mkdocs configuration recommendations. Start a pilot project implementation.                                      |
 | **July**      | Apply guidelines and configurations to a pilot project. Gather an initial feedback from OSL community.                                              |
