@@ -101,7 +101,7 @@ projects.
 
 ## Project Budget
 
-The budget is based on a 15-hour weekly commitment over 6 months, with
+The budget is based on a 10-hour weekly commitment over 6 months, with
 adjustments as necessary, at a rate of $30 USD/hr.
 
 | Budget Item        | Quantity | Amount      | Running Total   |
