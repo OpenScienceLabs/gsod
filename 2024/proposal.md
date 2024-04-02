@@ -90,6 +90,7 @@ projects.
 
 | Month         | Task and Milestones                                                                                           |
 | ------------- | ------------------------------------------------------------------------------------------------------------- |
+| **April**     | Hire a technical writer.                                                                                      |
 | **May**       | Orientation and project initiation: Introduce technical writer to OSL community and outline project scope.    |
 | **June**      | Draft documentation guidelines and mkdocs configuration recommendations. Start pilot project implementation.  |
 | **July**      | Apply guidelines and configurations to pilot project. Gather initial feedback from OSL community.             |
@@ -137,13 +138,11 @@ Docs with Open Science Labs by following these steps:
 
 To express your interest in this project, please send an email
 to team@opensciencelabs.org, including links to your technical writing samples,
-portfolio, or CV. 
+portfolio, or CV.
 
-Ensure your application is submitted by 10 May 2024, 23:59
-UTC. 
+Ensure your application is submitted by 10 May 2024, 23:59 UTC.
 
-The selected applicant will be announced by 18 May. 
+The selected applicant will be announced by 18 May.
 
-For further inquiries,
-our Discord server is an open channel for
+For further inquiries, our Discord server is an open channel for
 questions: https://opensciencelabs.org/discord.
