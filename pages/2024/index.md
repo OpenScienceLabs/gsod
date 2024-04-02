@@ -88,16 +88,16 @@ the existence of a dedicated technical writer working an average of 10 hours per
 week. Activities include participating in community meetings, and promoting OSL
 projects.
 
-| Month         | Task and Milestones                                                                                           |
-| ------------- | ------------------------------------------------------------------------------------------------------------- |
-| **April**     | Hire a technical writer.                                                                                      |
-| **May**       | Orientation and project initiation: Introduce technical writer to OSL community and outline project scope.    |
-| **June**      | Draft documentation guidelines and mkdocs configuration recommendations. Start pilot project implementation.  |
-| **July**      | Apply guidelines and configurations to pilot project. Gather initial feedback from OSL community.             |
-| **August**    | Refine documentation based on feedback. Begin integration of guidelines into SciCookie template.              |
-| **September** | Final review and adjustments to documentation and mkdocs configurations. Continue integration into SciCookie. |
-| **October**   | Finalize and publish all changes to pilot project documentation. Finalize integration into SciCookie.         |
-| **November**  | Evaluate project success through community feedback. Document lessons learned and celebrate achievements.     |
+| Month         | Task and Milestones                                                                                                                                 |
+| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **April**     | Start recruiting process for hiring technical writer.                                                                                               |
+| **May**       | Contract a technical writer; Orientation and project initiation: Introduce the technical writer to the OSL community and outline the project scope. |
+| **June**      | Draft documentation guidelines and mkdocs configuration recommendations. Start pilot project implementation.                                        |
+| **July**      | Apply guidelines and configurations to pilot project. Gather initial feedback from OSL community.                                                   |
+| **August**    | Refine documentation based on feedback. Begin integration of guidelines into SciCookie template.                                                    |
+| **September** | Final review and adjustments to documentation and mkdocs configurations. Continue integration into SciCookie.                                       |
+| **October**   | Finalize and publish all changes to pilot project documentation. Finalize integration into SciCookie.                                               |
+| **November**  | Evaluate project success through community feedback. Document lessons learned and celebrate achievements.                                           |
 
 ## Project Budget
 
