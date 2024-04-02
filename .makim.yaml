@@ -1,0 +1,11 @@
+version: 1.0
+groups:
+  pages:
+    targets:
+      build:
+        help: build the static page
+        run: mkdocs build --verbose --clean
+
+      preview:
+        help: preview the web page dynamically
+        run: mkdocs serve --watch pages --watch theme
