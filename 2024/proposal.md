@@ -1,25 +1,26 @@
 # Google Season of Docs 2024 Proposal for Open Science Labs
 
-Open Science Labs (OSL) actively supports open-source development and the
-principles of open science through our Incubator Program. This program aids in
-the development of open-source projects that benefit the community across
-various domains. We recognize that effective documentation is essential for the
-success and wider adoption of these projects. Participating in the Google Season
-of Docs will enable us to enhance our documentation quality, making our projects
-more user-friendly and easier to contribute to. Our ultimate goal is to
-incorporate this enhanced documentation approach into a project template, named
-SciCookie, ensuring that all new projects initiated with it will embody these
-improved documentation standards.
+Open Science Labs (OSL) actively supports open-source development, and the
+principles of open science. Our Incubator Program aids in the development of
+open-source projects and a plethora of processes to benefit the community across
+various disciplines. We strongly believe that effective documentation is
+essential for success and expansion. Therefore, participating in the Google
+Season of Docs, will enable us to enhance our documentation quality. In turn,
+making our projects more user-friendly and easier to contribute to. It is our
+priority to achieve enhanced documentation processes, following with the
+integration to all new projects. These improved documentation standards will
+shape a project template named “SciCookie”.
 
 ## About Open Science Labs
 
 OSL is dedicated to advancing scientific research through collaboration,
 innovation, and education. Our mission is to foster a more inclusive,
-transparent, and accessible scientific community, empowering researchers,
-educators, and students to contribute significantly to scientific advancements.
-OSL encourages collaboration, innovation, and learning within the scientific
-community through project incubation, partnerships, and an Internship Program,
-all while upholding the principles of openness and accessibility.
+transparent, and accessible scientific community; empowering researchers,
+educators, and students to contribute significantly towards scientific
+advancements. OSL encourages partnership, modernization, and learning within the
+scientific community. Thus, OSL offers Project Incubation, Partnerships, and an
+Internship Program to rising talents, all while upholding the principles of
+openness and accessibility.
 
 ## About the Project
 
@@ -27,22 +28,21 @@ all while upholding the principles of openness and accessibility.
 
 Maintaining high-quality documentation is challenging, especially when
 initiating a new project and establishing its foundational documentation
-structure.
-
-SciCookie, leveraging cookieninja (a cookiecutter fork) as its backend,
-facilitates the creation of a robust initial structure for new projects. It
-incorporates recommendations from pyOpenSci to optimize the project template,
-encouraging adherence to best practices from the outset. However, SciCookie's
-current documentation structure is basic, and there's a clear need for
-guidelines that can assist documentation writers in enhancing documentation
-quality and effectiveness.
+structure. SciCookie, leveraging cookieninja (a cookiecutter fork) as its
+backend, facilitates the creation of a robust initial structure for new
+projects. It incorporates recommendations from pyOpenSci to optimize the project
+template, encouraging adherence to best practices from the outset. However,
+SciCookie's current documentation structure is rather simplistic. Undoubtedly,
+here's a clear need for guidelines. These contributions would assist writers and
+boost quality and effectiveness.
 
 ### Project's Scope
 
-This project aims to develop a comprehensive guideline for documentation and
-refine the initial structure provided by the SciCookie template. It will also
-involve applying these guidelines to at least one OSL Incubator project as a
-pilot to validate the recommendations.
+This project aims to develop comprehensive guidelines for all documentation and
+evidence recording. Moreover, the scope would include structural refining of the
+existing SciCookie template. Once OSL applies these guidelines to at least one
+Incubator Project, (as a pilot to validate the recommendations), the process
+would be complete.
 
 #### Deliverables
 
@@ -59,8 +59,7 @@ pilot to validate the recommendations.
 
 Success will be evaluated through a Google Forms survey, seeking feedback on the
 ongoing work. We aim for at least 75% positive feedback, focusing on content
-quality, information completeness, and documentation aesthetics and
-functionality.
+quality, information completeness, documentation aesthetics, and functionality.
 
 ## Requirements
 
@@ -79,13 +78,15 @@ functionality.
 @xmnlab - Ivan, the main point of contact, has contributed extensively to
 documentation and setup for incubator projects.
 
-@bluexblooded - Victoria is a professional writer experienced in covering a wide variety of topics.
+@bluexblooded - Victoria is a professional writer experienced in covering a wide
+variety of topics.
 
 ## Timeline
 
-The project spans 6 months, from May to November 2024, with the technical writer
-dedicating an average of 10 hours per week. Activities include participating in
-community meetings and promoting the project.
+The project span is 6 months; from May to November 2024. This timeline considers
+the existence of a dedicated technical writer working an average of 10 hours per
+week. Activities include participating in community meetings, and promoting OSL
+projects.
 
 | Month         | Task and Milestones                                                                                           |
 | ------------- | ------------------------------------------------------------------------------------------------------------- |
@@ -134,10 +135,15 @@ Docs with Open Science Labs by following these steps:
 
 ## Contact Information
 
-To express interest in this project, please send an email to
-team@opensciencelabs.org, including links to your technical writing samples,
-portfolio, or CV. Ensure your application is submitted by 10 May 2024, 23:59
-UTC. The selected applicant will be announced by 18 May.
+To express your interest in this project, please send an email
+to team@opensciencelabs.org, including links to your technical writing samples,
+portfolio, or CV. 
 
-For further inquiries, our Discord server is an open channel for questions:
-[https://opensciencelabs.org/discord](https://opensciencelabs.org/discord).
+Ensure your application is submitted by 10 May 2024, 23:59
+UTC. 
+
+The selected applicant will be announced by 18 May. 
+
+For further inquiries,
+our Discord server is an open channel for
+questions: https://opensciencelabs.org/discord.
